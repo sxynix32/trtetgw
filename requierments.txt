@@ -1,0 +1,15 @@
+streamlit
+faiss-cpu
+sentence-transformers
+langchain-community==0.3.23
+langchain==0.1.16
+langchain-core==0.3.48
+langsmith==0.1.125
+langchain-groq==0.3.2
+PyPDF2
+pillow
+httpx==0.27.0
+openai==1.17.0
+deep-translator
+SpeechRecognition
+groq
